@@ -1,0 +1,144 @@
+FFName,Prob-FF,"Lavallee,",David,,
+ShiftDate,ShiftChange,"Pay Roll Accoun",Hours,Rank,Reason
+2017/01/03,07:00:00,OT-IOD,10,Prob-FF,"FF Archambault, Seth - Injured On Duty"
+2017/01/03,17:00:00,OT,1,Prob-FF,"held over for late relief"
+2017/01/06,17:00:00,SWAPW,14,Prob-FF,"Prob-FF Perry, James - SWAP-OUT"
+2017/01/07,07:00:00,SWAPW,10,Prob-FF,"FF Andrade, Daniel - SWAP-OUT"
+2017/01/13,07:00:00,SWAP,10,Prob-FF,SWAP-OUT
+2017/01/21,07:00:00,SWAP,10,Prob-FF,SWAP-OUT
+2017/01/22,07:00:00,CMP-U,10,Prob-FF,"Comp USED"
+2017/01/23,17:00:00,SWAP,14,Prob-FF,SWAP-OUT
+2017/01/24,17:00:00,SWAP,14,Prob-FF,SWAP-OUT
+2017/02/04,17:00:00,SWAPW,14,Prob-FF,"Prob-FF Stabile, Brian - SWAP-OUT"
+2017/02/07,17:00:00,OT,0.5,Prob-FF,"Late call # 360"
+2017/02/08,17:00:00,ADMIN,14,Prob-FF,Administratlve
+2017/02/13,07:00:00,OT-VC,10,Prob-FF,"FF DeLuca, Anthony - Vacation"
+2017/02/17,17:00:00,OT-IOD,14,Prob-FF,"FF Howard, Matthew - Injured On Duty"
+2017/03/02,07:00:00,OT-IOD,10,Prob-FF,"FF Howard, Matthew - Injured On Duty"
+2017/03/09,07:00:00,CS-EMS,4,Prob-FF,"CPR recert"
+2017/03/09,17:00:00,SWAP,14,Prob-FF,SWAP-OUT
+2017/03/10,07:00:00,SWAPW,10,Prob-FF,"Swap for German"
+2017/03/13,07:00:00,CS-EMS,4,Prob-FF,ems
+2017/03/30,07:00:00,SWAP,10,Prob-FF,"Swap Out"
+2017/03/31,17:00:00,OT-VC,14,Prob-FF,"FF Forte, Stephen - vacation"
+2017/04/05,07:00:00,OT-SL,5,Prob-FF,"FF Andrade, Daniel - sick"
+2017/04/05,07:00:00,CMP-E,5,Prob-FF,"FF Andrade, Daniel - sick"
+2017/04/18,07:00:00,OT-VC,10,Prob-FF,"FF Archambault, Seth - vacation"
+2017/04/19,07:00:00,SWAPW,10,Prob-FF,"FF Columbier, Martin - swap out"
+2017/04/22,07:00:00,SWAPW,10,Prob-FF,"FF Szerlag. Jon - swap out"
+2017/04/22,17:00:00,OT-VC,7,Prob-FF,"FF Howard, Matthew - vacation"
+2017/04/22,17:00:00,CMP-E,10.5,Prob-FF,"FF Howard, Matthew - vacatlon"
+2017/04/23,07:00:00,SWAP,10,Prob-FF,SWAP-OUT
+2017/05/04,17:00:00,CMP-U,14,Prob-FF,"Comp USED"
+2017/05/10,07:00:00,SWAP,10,Prob-FF,SWAP-OUT
+2017/05/11,17:00:00,SWAP,14,Prob-FF,SWAP-OUT
+2017/05/12,17:00:00,CMP-U,14,Prob-FF,"Comp USED"
+2017/05/20,17:00:00,CMP-U,14,Prob-FF,"Comp USED"
+2017/05/24,17:00:00,SWAPW,14,Prob-FF,"Prob-FF Perry, James - SWAP-OUT"
+2017/05/27,17:00:00,PRS,14,Prob-FF,"Personal Day ‘"
+2017/05/29,07:00:00,CMP-E,6,Prob-FF,Parade
+2017/06/03,17:00:00,OT-IOD,7,Prob-FF,"R2 Diver"
+2017/06/03,17:00:00,CMP-E,7,Prob-FF,"R2 Diver"
+2017/06/09,07:00:00,SWAPW,10,Prob-FF,"FF McKeon, Steven - SWAP-OUT"
+2017/06/13,07:00:00,OT-IOD,10,Prob-FF,"FF DeLuca, Anthony- Injured On Duty"
+2017/06/13,17:00:00,SWAP,14,Prob-FF,SWAP-OUT
+2017/06/14,07:00:00,CMP-E,10,Prob-FF,"FF Howard, Matthew - Vacation"
+2017/06/14,17:00:00,SWAPW,14,Prob-FF,"FF Campbell, Andrew - SWAP-OUT"
+2017/06/15,07:00:00,OT-VC,10,Prob-FF,"FF Howard, Matthew - Vacation"
+2017/06/15,17:00:00,OT,1,Prob-FF,"OT | 3 1717 heldover"
+2017/06/16,07:00:00,CMP-E,10,Prob-FF,"FF King, Kevin - Vacation"
+2017/06/26,17:00:00,OT,1.5,Prob-FF,"HOLDOVER l#1840"
+2017/06/27,07:00:00,SWAP,10,Prob-FF,SWAP-OUT
+2017/06/28,07:00:00,OT-IOD,10,Prob-FF,"FF DeLuca, Anthony - Injured On Duty"
+2017/06/29,17:00:00,PRS,14,Prob-FF,"Personal Day"
+2017/07/09,07:00:00,SWAPW,10,Prob-FF,"FF Columbier, Martin - SWAP-OUT"
+2017/07/10,17:00:00,OT-SL,14,Prob-FF,"FF Snowling, Gregg - Slck"
+2017/07/17,07:00:00,SWAPW,10,Prob-FF,"FF Columbier, Martin - SWAP-OUT"
+2017/07/17,17:00:00,SWAPW,14,Prob-FF,"Prob-FF Preston, Ronald - SWAP-OUT"
+2017/07/24,17:00:00,OT-IOD,14,Prob-FF,"FF DeLuca, Anthony - Injured On Duty"
+2017/07/27,17:00:00,OT-VC,14,Prob-FF,"FF Snowling, Gregg - Vacation"
+2017/08/03,07:00:00,SWAP,10,Prob-FF,SWAP-OUT
+2017/08/04,07:00:00,SWAP,10,Prob-FF,SWAP-OUT
+2017/08/05,17:00:00,SWAP,14,Prob-FF,SWAP-OUT
+2017/08/06,17:00:00,SWAP,14,Prob-FF,SWAP-OUT
+2017/08/11,17:00:00,OT-IOD,14,Prob-FF,"Prob-FF Perry, James - Injured On Duty"
+2017/08/12,17:00:00,OT-SL,14,Prob-FF,"FF Columbier, Martin - Sick"
+2017/08/15,07:00:00,OT-IOD,10,Prob-FF,"FF DeLuca, Anthony - Injured On Duty"
+2017/08/18,07:00:00,SWAPW,10,Prob-FF,"Prob-FF Crute, Sean - SWAP-OUT"
+2017/08/20,17:00:00,OT-VC,14,Prob-FF,"FF Snowling, Gregg - Vacatlon ."
+2017/08/22,07:00:00,SWAPW,10,FF,"FF Gorman, David - SWAP-OUT"
+2017/08/27,07:00:00,VC,10,FF,Vacatlon
+2017/09/05,07:00:00,SWAP,10,FF,SWAP-OUT
+2017/09/06,07:00:00,SWAPW,10,FF,"FF Marsh, William - SWAP-OUT"
+2017/09/06,17:00:00,ADMIN,14,FF,"Administrative - shift change"
+2017/09/07,17:00:00,ADMIN,14,FF,"Administrative - shift change"
+2017/09/08,17:00:00,CMP-U,14,FF,"Comp USED"
+2017/09/09,07:00:00,OT-VC,10,FF,"FF DeLuca, Anthony - Injured On Duty"
+2017/09/10,07:00:00,OT-SL,10,FF,"Prob-FF Crute, Sean - Sick"
+2017/09/13,07:00:00,OT,10,FF,"FF Szerlag, Jonathan - Injured On Duty"
+2017/09/22,17:00:00,OT-IOD,14,FF,"FF Szerlag, Jonathan - Injured On Duty"
+2017/09/25,07:00:00,OT-IOD,10,FF,"FF DeLuca, Anthony - Injured On Duty"
+2017/09/29,17:00:00,OT-VNCY,14,FF,"Rescue-2 Vacancy"
+2017/10/01,07:00:00,VC,10,FF,Vacation
+2017/10/04,07:00:00,OT-IOD,10,FF,"FF Snowling, Gregg - Injured On Duty"
+2017/10/06,07:00:00,OT-VC,10,FF,"Lt Jones, Michael - Vacation"
+2017/10/06,17:00:00,OT-IOD,14,FF,"FF Snowling, Gregg - Injured On Duty"
+2017/10/12,07:00:00,OT-VNCY,10,FF,
+2017/10/16,07:00:00,SWAP,10,FF,SWAP-OUT
+2017/10/21,07:00:00,OT-VNCY,10,FF,"Rescue-2 Driver Vacancy"
+2017/10/24,17:00:00,OT-SL,14,FF,"FF King, Kevin - Sick"
+2017/11/03,07:00:00,OT-IOD,6,FF,"FF DeLuca, Anthony - Injured On Duty"
+2017/11/04,07:00:00,OT-IOD,10,FF,"FF DeLuca, Anthony - Injured On Duty"
+2017/11/05,07:00:00,OT-SL,10,Prob-FF,"Prob-FF Crute, Sean - Sick"
+2017/11/06,07:00:00,OT-VNCY,10,FF,"Rescue-2 Driver Vacancy"
+2017/11/09,07:00:00,CMP-U,10,FF,"Comp USED"
+2017/11/10,07:00:00,CMP-U,10,FF,"Comp USED"
+2017/11/11,17:00:00,SWAP,14,FF,SWAP-OUT
+2017/11/14,07:00:00,OT,8,FF,"AFG TRAINI NG"
+2017/11/15,17:00:00,OT-SL,14,FF,"FF Howard, Matthew (D) - Slck"
+2017/11/16,17:00:00,SWAPW,14,FF,"FF Columbier, Martln - SWAP-OUT"
+2017/11/18,17:00:00,OT-PRS,14,FF,"FF Andrade, Daniel - Personal Day"
+2017/11/20,17:00:00,CMP-U,14,FF,"Comp USED"
+2017/11/26,07:00:00,CMP-U,10,FF,"Comp USED"
+2017/11/27,07:00:00,CMP-E,10,FF,"FF DeLuca, Anthony - Injured On Duty"
+2017/11/30,07:00:00,OT,10,FF,"Hired for R2 vacancy"
+2017/12/12,07:00:00,VC,10,FF,Vacatlon
+2017/12/14,07:00:00,OT-SL,10,FF,"FF Campbell, Andrew - Slck"
+2017/12/19,07:00:00,OT,1.5,FF,"Incident 3957"
+2017/12/23,07:00:00,SWAPW,10,Prob-FF,"Prob-FF Crute, Sean - SWAP-OUT"
+2017/12/28,17:00:00,OT,1,FF,"Held Over For Run # 4091"
+2017/12/30,17:00:00,SWAP,14,FF,SWAP-OUT
+2018/01/07,07:00:00,OT,1,FF,"I# 88-89"
+2018/01/09,17:00:00,OT-SL,14,FF,"FF DeLuca, Anthony - Injured On Duty"
+2018/01/14,17:00:00,CMP-U,14,FF,"Comp USED"
+2018/01/16,07:00:00,OT-VC,10,FF,"FF Perry, James - Vacatlon"
+2018/01/16,17:00:00,OT,0.5,FF,"Held Ovef‘ Run # 208"
+2018/01/17,07:00:00,SWAPW,10,Prob-FF,"Prob-FF Crute, Sean - SWAP-OUT"
+2018/01/20,07:00:00,SWAP,10,FF,SWAP-OUT
+2018/01/21,07:00:00,SWAP,10,FF,SWAP-OUT
+2018/01/27,17:00:00,SWAPW,14,FF,"FF Perry, James - SWAP-OUT"
+2018/02/14,07:00:00,ACT,10,FF,
+2018/02/14,17:00:00,ACTOT,1,FF,"LATE EMS #552"
+2018/02/16,07:00:00,SWAPW,10,FF,"Prob-FF Preston, Ronald - SWAP-OUT"
+2018/02/24,17:00:00,SWAP,14,FF,SWAP-OUT
+2018/03/05,07:00:00,SWAPW,10,FF,"FF Perry, James - SWAP-OUT"
+2018/03/05,17:00:00,OT,0.5,FF,"Held Over Run # 794"
+2018/03/06,07:00:00,OT-VC,10,FF,"FF Howard, Matthew (D) - Vacation"
+2018/03/13,07:00:00,OT,10,FF,"storm coverage"
+2018/03/13,17:00:00,OT-SL,14,FF,"FF DeLuca, Anthony - Sick"
+2018/03/16,07:00:00,SWAPW,10,FF,"FF McKeon, Steven - SWAP-OUT"
+2018/04/06,07:00:00,OT,1,FF,l#1151
+2018/04/09,17:00:00,SWAPW,14,FF,"Prob-FF Crute, Sean - SWAP-OUT"
+2018/04/10,17:00:00,OT,0.5,FF,"LATE CALL#1190"
+2018/04/11,07:00:00,SWAP,10,FF,SWAP-OUT
+2018/04/12,17:00:00,SWAP,14,FF,SWAP-OUT
+2018/04/21,07:00:00,CMP-E,10,FF,"FF Campbell, Andrew - Personal Day"
+2018/04/21,17:00:00,VC,14,FF,Vacation
+2018/04/26,07:00:00,SWAP,10,FF,SWAP-OUT
+2018/04/27,07:00:00,SWAP,10,FF,SWAP-OUT
+2018/04/28,17:00:00,SWAP,14,FF,SWAP-OUT
+2018/04/29,17:00:00,SWAP,14,FF,SWAP-OUT
+2018/05/15,07:00:00,CMP-E,10,FF,"FF DeLuca, Anthony - Vacation"
+2018/05/16,07:00:00,SWAPW,10,FF,"FF Howard, Matthew (D) - SWAP-OUT"
+2018/05/20,07:00:00,SWAP,10,FF,SWAP-OUT
+2018/05/23,17:00:00,PRS,14,FF,"Personal Day"

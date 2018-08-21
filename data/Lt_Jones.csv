@@ -1,0 +1,93 @@
+FFName,45,Lt,"Jones,",Michael,
+ShiftDate,ShiftChange,PayRollAccou,Hours,Rank,Reason
+2017/01/07,07:00:00,SWAP,10,Lt,SWAP-OUT
+2017/01/15,07:00:00,PRS,10,Lt,"Personal Day"
+2017/01/16,17:00:00,OT,1.5,Lt,I#149
+2017/01/23,07:00:00,SL,10,Lt,Sick
+2017/01/24,07:00:00,SL,10,Lt,Sick
+2017/02/03,17:00:00,SL,14,Lt,Sick
+2017/02/09,07:00:00,SWAP,10,Lt,SWAP-OUT
+2017/02/19,07:00:00,SWAPW,10,Lt,"Lt Babcock, Stephen (D) - SWAP-OUT"
+2017/02/24,17:00:00,OT-VC,14,Lt,"Lt Grady, Ryan - Vacation"
+2017/02/27,17:00:00,SL,14,Lt,Sick
+2017/03/02,17:00:00,OT-SL,14,Lt,"Capt Montville, Kenneth (D) - Sick"
+2017/03/21,07:00:00,SL,10,Lt,Sick
+2017/04/05,07:00:00,SL,10,Lt,Sick
+2017/04/09,07:00:00,OT,1,Lt,I#962
+2017/04/15,17:00:00,PRS,14,Lt,"Personal Day"
+2017/04/19,17:00:00,OT-SL,14,Lt,"Lt Bailey, Thomas - Sick"
+2017/04/29,17:00:00,OT,0.5,Lt,"Late run I# 17-1199"
+2017/04/30,17:00:00,OT-SL,14,Lt,"Lt Grady, Ryan - Sick"
+2017/05/02,07:00:00,OT,1,Lt,"HOLDOVER I#1216"
+2017/05/07,07:00:00,VC,10,Lt,Vacation
+2017/05/08,17:00:00,OT,0.5,Lt,I#1278
+2017/05/15,07:00:00,VC,10,Lt,Vacation
+2017/05/16,07:00:00,VC,10,Lt,Vacation
+2017/05/26,17:00:00,SL,14,Lt,Sick
+2017/05/31,17:00:00,OT-VC,14,Lt,"Lt Perry, William - Vacation"
+2017/06/02,17:00:00,VC,14,Lt,Vacation
+2017/06/11,07:00:00,CMP-E,6,Lt,"FF Sunday"
+2017/06/16,07:00:00,SWAP,10,Lt,SWAP-OUT
+2017/06/17,07:00:00,SWAP,3,Lt,SWAP-OUT
+2017/06/25,07:00:00,VC,10,Lt,Vacation
+2017/06/26,17:00:00,VC,14,Lt,Vacation
+2017/06/27,17:00:00,SL,14,Lt,Sick
+2017/07/02,17:00:00,OT-PRS,14,Lt,"Lt Grady, Ryan - Personal Day"
+2017/07/04,17:00:00,VC,14,Lt,Vacation
+2017/07/19,07:00:00,SL,10,Lt,Sick.
+2017/07/20,17:00:00,SL,14,Lt,Sick
+2017/07/21,17:00:00,VC,14,Lt,Vacation
+2017/07/27,07:00:00,CMP-U,10,Lt,"Comp USED"
+2017/07/30,07:00:00,OT-VC,10,Lt,"Capt Montville, Kenneth (D) -Vacation"
+2017/08/07,17:00:00,OT-SL,14,Lt,"Lt Matola, Jr., Edward (D) - Sick"
+2017/08/11,07:00:00,VC,10,Lt,Vacation
+2017/08/12,07:00:00,VC,10,Lt,Vacation
+2017/08/13,17:00:00,VC,14,Lt,Vacation
+2017/08/14,17:00:00,VC,14,Lt,Vacation
+2017/08/20,17:00:00,OT-VC,14,Lt,"Lt Grady, Ryan (D) - Vacation"
+2017/09/04,07:00:00,VC,10,Lt,Vacation
+2017/09/06,17:00:00,VC,14,Lt,Vacation
+2017/09/28,17:00:00,OT,1,Lt,"Incident #3000"
+2017/10/01,07:00:00,OT-PRS,10,Lt,"Lt Babcock, Stephen (D) - Personal Day"
+2017/10/06,07:00:00,VC,10,Lt,Vacation
+2017/10/07,07:00:00,VC,10,Lt,Vacation
+2017/10/22,07:00:00,VC,10,Lt,Vacation
+2017/10/23,07:00:00,BARG,10,Lt,Bargaining
+2017/11/07,07:00:00,SL,10,Lt,Sick
+2017/11/08,07:00:00,SL,10,Lt,Sick
+2017/11/11,07:00:00,OT,0.5,Lt,"Late run I#17-3552"
+2017/11/14,07:00:00,OT,8,Lt,"AFG TRAINING"
+2017/11/23,07:00:00,VC,10,Lt,Vacation
+2017/12/01,07:00:00,SWAP,10,Lt,SWAP-OUT
+2017/12/09,07:00:00,VC,10,Lt,Vacation
+2017/12/10,17:00:00,OT,0.5,Lt,"Late run I#17-3859"
+2017/12/25,07:00:00,VC,10,Lt,Vacation
+2018/01/02,17:00:00,OT-SL,14,Lt,"Lt Perry, William - Sick"
+2018/01/03,07:00:00,BARG,4,Lt,"Bargaining Leave"
+2018/01/05,07:00:00,OT-IOD,4,Lt,"Lt Matola, Jr., Edward (D) - Sick"
+2018/01/10,17:00:00,OT-SL,14,Lt,"Lt Beaudreau, Robert - Sick"
+2018/01/11,07:00:00,BARG,5,Lt,Bargaining
+2018/01/25,17:00:00,OT-VC,14,Lt,"Lt Bailey, Thomas - Vacation"
+2018/01/28,07:00:00,SWAPW,10,Lt,"Lt Babcock, Stephen (D) - SWAP-OUT"
+2018/02/02,17:00:00,OT-VC,14,Lt,"Capt Montville, Kenneth (D) -Vacation"
+2018/02/03,17:00:00,OT,0.5,Lt,I#442
+2018/02/04,17:00:00,OT-VC,14,Lt,"Lt Gardner, Robert - Vacation"
+2018/02/12,07:00:00,SWAP,10,Lt,"Swap Out"
+2018/02/18,17:00:00,OT-PRS,7,Lt,"Lt. Bailey, Thomas - personal"
+2018/02/18,17:00:00,CMP-E,7,Lt,"Lt. Bailey, Thomas - personal"
+2018/02/27,07:00:00,SL,10,Lt,Sick
+2018/03/07,07:00:00,CMP-U,10,Lt,"Comp USED"
+2018/03/08,07:00:00,PRS,10,Lt,"Personal Day"
+2018/04/16,07:00:00,SWAP,10,Lt,SWAP-OUT
+2018/04/17,17:00:00,SWAPW,14,Lt,"Lt Gardner, Robert - SWAP-OUT"
+2018/04/18,17:00:00,SL,14,Lt,Sick
+2018/04/19,17:00:00,SL,14,Lt,Sick
+2018/04/24,07:00:00,SL,10,Lt,Sick
+2018/04/25,07:00:00,SL,10,Lt,Sick
+2018/04/26,17:00:00,SL,14,Lt,Sick
+2018/04/27,17:00:00,SL,14,Lt,Sick
+2018/05/05,17:00:00,VC,14,Lt,Vacation
+2018/05/10,07:00:00,VC,10,Lt,Vacation
+2018/05/11,07:00:00,VC,10,Lt,Vacation
+2018/05/19,17:00:00,OT-VC,14,Lt,"Lt Gardner, Robert - Vacation"
+2018/05/20,07:00:00,OT-VC,10,Lt,"Lt Babcock, Stephen (D) - Vacation"

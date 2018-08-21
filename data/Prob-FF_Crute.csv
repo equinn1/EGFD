@@ -1,0 +1,212 @@
+FFName,Prob-FF,"Crute,",Sean,,
+ShiftDate,ShiftChange,’ayRollAccoun,Hours,Rank,Reason
+2017/06/11,07:00:00,CMP-E,6,Prob-FF,"FF Sunday"
+2017/06/26,07:00:00,SWAPW,10,Prob-FF,"Prob-FF Gorman, David - SWAP-OUT"
+2017/06/26,17:00:00,CMP-E,1.5,Prob-FF,"HOLDOVER I#1840"
+2017/06/27,07:00:00,DP,8.5,Prob-FF,"camp fogarty"
+2017/06/29,07:00:00,DP,9,Prob-FF,"camp fogarty"
+2017/06/29,17:00:00,C-ND,14,Prob-FF,dispatch
+2017/06/30,17:00:00,OT-IOD,14,Prob-FF,"FF DeLuca, Anthony - Injured On Duty"
+2017/07/01,07:00:00,SWAP,10,Prob-FF,SWAP-OUT
+2017/07/02,17:00:00,SWAP,14,Prob-FF,SWAP-OUT
+2017/07/03,07:00:00,OT-VC,10,Prob-FF,"FF Andrade, Daniel - Vacation"
+2017/07/05,17:00:00,OT-IOD,14,Prob-FF,"FF Andrade, Daniel - Injured On Duty"
+2017/07/06,17:00:00,C-ND,14,Prob-FF,dispatch
+2017/07/07,07:00:00,C-DD,10,Prob-FF,DISPATCH
+2017/07/09,07:00:00,SWAP,10,Prob-FF,SWAP-OUT
+2017/07/13,07:00:00,C-DD,10,Prob-FF,DISPATCH
+2017/07/14,07:00:00,OT-IOD,10,Prob-FF,"FF DeLuca, Anthony - Injured On Duty"
+2017/07/14,17:00:00,C-ND,14,Prob-FF,DISPATCH
+2017/07/15,07:00:00,SWAPW,10,Prob-FF,"Prob-FF Preston, Ronald - SWAP-OUT"
+2017/07/16,17:00:00,OT-IOD,14,Prob-FF,"FF DeLuca, Anthony - Injured On Duty"
+2017/07/21,17:00:00,OT-PRS,14,Prob-FF,"FF Forte, Stephen - Personal Day"
+2017/07/22,07:00:00,SWAPW,10,Prob-FF,"Prob-FF Preston, Ronald - SWAP-OUT"
+2017/07/25,17:00:00,OT,1.5,Prob-FF,"Late Call #2214"
+2017/07/30,17:00:00,OT-COMP,14,Prob-FF,"Prob-FF Gorman, David - Comp USED"
+2017/08/01,17:00:00,OT-SL,14,Prob-FF,"FF DeLuca, Anthony - Injured On Duty"
+2017/08/04,07:00:00,C-DD,10,Prob-FF,Dispatch
+2017/08/06,17:00:00,SWAPW,14,Prob-FF,"Prob-FF Lavallee, David - SWAP-OUT"
+2017/08/07,07:00:00,OT-IOD,10,Prob-FF,"FF DeLuca, Anthony - Injured On Duty"
+2017/08/07,17:00:00,C-ND,14,Prob-FF,Dispatch
+2017/08/09,17:00:00,DP,4,Prob-FF,"detail odeum"
+2017/08/10,07:00:00,SWAP,10,Prob-FF,SWAP-OUT
+2017/08/10,17:00:00,OT-IOD,14,Prob-FF,"FF DeLuca, Anthony - Injured On Duty"
+2017/08/11,07:00:00,C-DD,10,Prob-FF,Dispatch
+2017/08/13,07:00:00,OT-VC,10,Prob-FF,"FF Marsh, William - Vacation"
+2017/08/13,17:00:00,OT,2.5,Prob-FF,"holdover I#2435"
+2017/08/14,07:00:00,C-DD,10,Prob-FF,Dfispatch
+2017/08/14,17:00:00,C-ND,14,Prob-FF,Dispatch
+2017/08/15,17:00:00,C-ND,14,Prob-FF,Dispatch
+2017/08/16,07:00:00,C-DD,10,Prob-FF,Dispatch
+2017/08/17,17:00:00,OT,0.5,Prob-FF,"Held Over Run # 2504"
+2017/08/18,07:00:00,SWAP,10,Prob-FF,SWAP-OUT
+2017/08/19,17:00:00,SWAP,14,Prob-FF,SWAP-OUT
+2017/08/21,07:00:00,SWAPW,10,Prob-FF,"Prob-FF Gorman, David - SWAP-OUT"
+2017/08/21,17:00:00,OT-SL,14,Prob-FF,"FF McKeon, Steven - Sick"
+2017/08/22,07:00:00,C-DD,10,Prob-FF,Dispatch
+2017/08/24,07:00:00,C-DD,10,Prob-FF,Dispatch
+2017/08/24,17:00:00,OT-PRS,14,Prob-FF,"FF Marsh, William - Personal Day"
+2017/08/25,17:00:00,OT-VC,14,Prob-FF,"FF Archambault, Seth - Vacation"
+2017/08/26,07:00:00,SWAP,10,Prob-FF,SWAP-OUT
+2017/08/27,07:00:00,SWAPW,10,Prob-FF,"FF McKeon, Steven - SWAP-OUT"
+2017/08/30,07:00:00,C-DD,10,Prob-FF,Dispatcher
+2017/08/31,07:00:00,OT-VC,10,Prob-FF,"FF O'Donnell, Peter - Vacation"
+2017/08/31,17:00:00,C-ND,14,Prob-FF,Dispatch
+2017/09/01,17:00:00,SWAPW,14,Prob-FF,"FF Marsh, William - SWAP-OUT"
+2017/09/03,07:00:00,SWAP,10,Prob-FF,SWAP-OUT
+2017/09/06,07:00:00,C-DD,10,Prob-FF,Dispatch
+2017/09/07,07:00:00,OT-COMP,10,Prob-FF,"FF Gorman, David - Comp USED"
+2017/09/07,17:00:00,OT-PRS,14,Prob-FF,"FF McKeon, Steven - Personal Day"
+2017/09/08,07:00:00,OT-IOD,10,Prob-FF,"FF DeLuca, Anthony - Injured On Duty"
+2017/09/10,07:00:00,SL,10,Prob-FF,Sick
+2017/09/13,07:00:00,C-DD,10,Prob-FF,Dispatch
+2017/09/14,17:00:00,C-ND,14,Prob-FF,Dispatch
+2017/09/15,17:00:00,OT-IOD,14,Prob-FF,"FF Szerlag, Jonathan - Injured On Duty"
+2017/09/17,07:00:00,C-DD,10,Prob-FF,Dispatch
+2017/09/17,17:00:00,C-ND,14,Prob-FF,Dispatch
+2017/09/22,07:00:00,C-DD,10,Prob-FF,Dispatch
+2017/09/25,07:00:00,C-DD,10,Prob-FF,Dispatch
+2017/09/25,17:00:00,C-ND,14,Prob-FF,Dispatch
+2017/09/28,07:00:00,OT-IOD,10,Prob-FF,"FF Szerlag, Jonathan - Injured On Duty"
+2017/09/30,07:00:00,C-DD,10,Prob-FF,Dispatch
+2017/10/02,07:00:00,C-DD,10,Prob-FF,Dispatch
+2017/10/02,17:00:00,C-ND,14,Prob-FF,Dispatch
+2017/10/06,07:00:00,OT-VC,10,Prob-FF,"FF King, Kevin - Vacation"
+2017/10/07,17:00:00,SWAP,14,Prob-FF,SWAP-OUT
+2017/10/09,07:00:00,C-DD,10,Prob-FF,Dispatch
+2017/10/09,17:00:00,C-ND,14,Prob-FF,Dispatch
+2017/10/14,17:00:00,PRS,14,Prob-FF,"Personal Day"
+2017/10/16,07:00:00,SWAPW,10,Prob-FF,"FF Gorman, David - SWAP-OUT"
+2017/10/17,07:00:00,C-DD,10,Pr0b-FF,Dispatch
+2017/10/19,07:00:00,C-DD,10,Prob-FF,Dispatch
+2017/10/20,07:00:00,SWAP,10,Prob-FF,SWAP-OUT
+2017/10/21,17:00:00,SWAPW,14,Prob-FF,"Prob-FF Preston, Ronald - SWAP-OUT"
+2017/10/22,07:00:00,C-DD,10,Prob-FF,Dispatch
+2017/10/25,17:00,SWAPW,14,Prob-FF,"FF Forte, Stephen - SWAP-OUT"
+2017/10/26,07:00:00,OT-BERV,10,Prob-FF,"FF Archambault, Seth - Bereavement"
+2017/10/27,17:00:00,C-ND,14,Prob-FF,Dispatch
+2017/11/01,07:00:00,C-DD,10,Prob-FF,Dispatch
+2017/11/02,07:00:00,OT-SL,10,Prob-FF,"FF Stabile, Brian - Sick"
+2017/11/02,17:00:00,C-ND,14,Prob-FF,Dispatch
+2017/11/05,07:00:00,SL,10,Prob-FF,Sick
+2017/11/08,07:00:00,OT-SL,10,Prob-FF,"FF McKeon, Steven - Sick"
+2017/11/09,17:00:00,OT-SL,14,Prob-FF,"FF McKeon, Steven - Sick"
+2017/11/10,07:00:00,OT-COMP,10,Prob-FF,"FF Lavallee, David - Comp USED"
+2017/11/14,17:00:00,OT-IOD,14,Prob-FF,"FF DeLuca, Anthony - Injured On Duty"
+2017/11/15,07:00:00,OT,8,Prob-FF,"AFG TRAINING"
+2017/11/17,07:00:00,C-DD,10,Prob-FF,Dispatch
+2017/11/17,17:00:00,OT-VC,14,Prob-FF,"FF King, Kevin - Vacation"
+2017/11/19,07:00:00,OT-IOD,10,Prob-FF,"FF DeLuca, Anthony - Injured On Duty"
+2017/11/20,07:00:00,C-DD,10,Prob-FF,Dispatch
+2017/11/23,07:00:00,OT-VC,10,Prob-FF,"Lt Greene, Merton - Vacation"
+2017/11/24,07:00:00,C-DD,10,Prob-FF,Dispatch
+2017/11/25,07:00:00,OT,1,Prob-FF,"Incident 3705/3706"
+2017/11/27,17:00:00,C-ND,14,Prob-FF,Dispatch
+2017/11/29,17:00:00,OT-IOD,14,Prob-FF,"FF DeLuca, Anthony - Injured On Duty"
+2017/12/02,07:00:00,C-DD,10,Prob-FF,Dispatch
+2017/12/04,17:00:00,C-ND,14,Prob-FF,Dispatch
+2017/12/05,07:00:00,OT-IOD,10,Prob-FF,"FF DeLuca, Anthony - Injured On Duty"
+2017/12/10,07:00:00,C-DD,10,Prob-FF,Dispatch
+2017/12/12,07:00:00,C-DD,10,Prob-FF,Dispatch
+2017/12/12,17:00:00,OT-COMP,14,Prob-FF,"FF King, Kevin - Comp USED"
+2017/12/17,07:00:00,OT-VC,10,Prob-FF,"FF McKeon, Steven - Vacation"
+2017/12/20,07:00:00,C-DD,10,Prob-FF,Dispatch
+2017/12/20,17:00:00,C-ND,14,PrOb-FF,Dispatch
+2017/12/23,07:00:00,SWAP,10,Prob-FF,SWAP-OUT
+2017/12/24,17:00:00,OT-VC,14,Prob-FF,"FF O'Donnell, Peter - Vacation"
+2017/12/25,07:00:00,OT-VC,10,Prob-FF,"FF Forte, Stephen - Vacation"
+2017/12/27,07:00:00,C-DD,10,Prob-FF,Dispatch
+2017/12/31,17:00:00,SWAPW,14,Prob-FF,"FF Campbell, Andrew - SWAP-OUT"
+2018/01/01,17:00:00,OT-SL,14,Prob-FF,"FF Archambault, Seth - Sick"
+2018/01/04,07:00:00,OT,10,Prob-FF,"STORM COVERAGE"
+2018/01/07,07:00:00,C-DD,10,Prob-FF,Dispatch
+2018/01/07,17:00:00,SWAPW,14,Prob-FF,"FF Marsh, William - SWAP-OUT"
+2018/01/09,17:00:00,C-ND,14,Prob-FF,Dispatch
+2018/01/11,17:00:00,SWAP,14,Prob-FF,SWAP-OUT
+2018/01/12,07:00:00,SWAPW,10,Prob-FF,"FF Lang Jr., Kevin - SWAP-OUT"
+2018/01/12,17:00:00,OT-SL,14,Prob-FF,"FF Forte, Stephen - Sick"
+2018/01/14,07:00:00,C-DD,10,Prob-FF,Dispatch
+2018/01/14,17:00:00,C-ND,14,Prob-FF,Dispatch
+2018/01/15,07:00:00,OT-BERV,10,Prob-FF,"FF Archambault, Seth - Bereavement"
+2018/01/15,17:00:00,OT,0.5,Prob-FF,"Late run I#18-0194"
+2018/01/17,07:00:00,SWAP,10,Prob-FF,SWAP-OUT
+2018/01/20,07:00:00,SWAPW,10,Prob-FF,"FF Lavallee, David - SWAP-OUT"
+2018/01/21,17:00:00,SWAPW,14,Prob-FF,"FF McKeon, Steven - SWAP-OUT"
+2018/01/22,07:00:00,OT-IOD,10,Prob-FF,"FF DeLuca, Anthony - Injured On Duty"
+2018/01/22,17:00:00,C-ND,13.5,Prob-FF,"night dispatch"
+2018/01/22,17:00:00,OT,0.5,Prob-FF,"late call I#277"
+2018/01/24,17:00:00,OT,0.5,Prob-FF,"Incident 307"
+2018/01/25,17:00:00,OT-IOD,14,Prob-FF,"FF DeLuca, Anthony - Injured On Duty"
+2018/01/27,17:00:00,SWAP,14,Prob-FF,SWAP-OUT
+2018/01/30,07:00:00,OT-IOD,10,Prob-FF,"FF DeLuca, Anthony - Injured On Duty"
+2018/01/30,17:00:00,C-ND,14,Prob-FF,"Dispatch Night Shift"
+2018/02/03,07:00:00,C-DD,10,Prob-FF,Dispatch
+2018/02/06,07:00:00,C-DD,10,Prob-FF,"Dispatch Day Shift"
+2018/02/06,17:00:00,C-ND,14,Prob-FF,"Dispatch Night Shift"
+2018/02/07,17:00:00,SWAPW,14,Prob-FF,"FF Gorman, David - SWAP-OUT"
+2018/02/09,07:00:00,SWAP,10,Prob-FF,SWAP-OUT
+2018/02/11,07:00:00,C-DD,10,Prob-FF,"Dispatch Day Shift"
+2018/02/14,07:00:00,SWAPW,10,PrOb-FF,"FF Lang Jr., Kevin - SWAP-OUT"
+2018/02/14,17:00:00,C-ND,14,Prob-FF,"Dispatch Night Shift"
+2018/02/17,17:00:00,OT-IOD,14,Prob-FF,"FF DeLuca, Anthony - Injured On Duty"
+2018/02/22,07:00:00,C-DD,10,Prob-FF,"Dispatch Day Shift"
+2018/02/22,17:00:00,C-ND,14,Prob-FF,"Dispatch Night Shift"
+2018/02/24,07:00:00,OT-SL,10,Prob-FF,"FF DeLuca, Anthony - Sick"
+2018/02/28,07:00:00,OT-VC,10,Prob-FF,"FF Andrade, Daniel - Vacation"
+2018/03/01,17:00:00,C-ND,14,Prob-FF,"Dispatch Night Shift"
+2018/03/03,17:00:00,C-ND,14,Prob-FF,"Dispatch Night Shift"
+2018/03/07,07:00:00,C-DD,10,Prob-FF,"Dispatch Day Shift"
+2018/03/09,07:00:00,SWAPW,10,Prob-FF,"FF Gorman, David - SWAP-OUT"
+2018/03/09,17:00:00,C-ND,14,Prob-FF,"Dispatch Night Shift"
+2018/03/10,17:00:00,OT-IOD,14,Prob-FF,"FF Szerlag, Jonathan - Injured On Duty"
+2018/03/11,07:00:00,C-DD,10,Prob-FF,"Dispatch Day Shift"
+2018/03/12,07:00:00,SWAPW,10,Prob-FF,"Prob-FF Preston, Ronald - SWAP-OUT"
+2018/03/13,07:00:00,SWAP,10,Prob-FF,SWAP-OUT
+2018/03/13,17:00:00,C-ND,14,Prob-FF,"Dispatch Night Shift"
+2018/03/14,07:00:00,SWAP,2,Prob-FF,SWAP-OUT
+2018/03/14,07:00:00,SWAP,8,Pro,"b-FF SWAP-OUT"
+2018/03/15,17:00:00,SWAP,14,Pro,"b-FF SWAP-OUT"
+2018/03/16,17:00:00,SWAP,14,Pro,"b-FF SWAP-OUT"
+2018/03/19,17:00:00,C-ND,14,Prob-FF,"Dispatch Night Shift"
+2018/03/20,07:00:00,OT-COMP,10,Prob-FF,"FF O'Donnell, Peter - Comp USED"
+2018/03/22,17:00:00,OT-PRS,14,Prob-FF,"Prob-FF Preston, Ronald - Personal Day"
+2018/03/23,07:00:00,C-DD,10,Prob-FF,"Dispatch Day Shift"
+2018/03/25,07:00:00,C-DD,10,Prob-FF,"Dispatch Day Shift"
+2018/03/27,07:00:00,OT-SCH,10,Prob-FF,"Prob-FF Preston, Ronald - School"
+2018/03/27,17:00:00,C-ND,13,Prob-FF,"Dispatch Night Shift"
+2018/03/27,17:00:00,OT,1,Prob-FF,"I# 1049"
+2018/03/30,17:00:00,OT-PRS,14,Prob-FF,"FF Campbell, Andrew - Personal Day"
+2018/03/31,07:00:00,OT-VC,10,Prob-FF,"FF Forte, Stephen - Vacation"
+2018/04/01,07:00:00,OT-IOD,10,Prob-FF,"Lt Purcell, William (D) - Injured On Duty"
+2018/04/03,17:00:00,C-ND,14,Prob-FF,"Dispatch Night Shift"
+2018/04/04,17:00:00,C-ND,14,Prob-FF,"Dispatch Night Shift"
+2018/04/05,17:00:00,OT-SL,14,Prob-FF,"FF Lang Jr., Kevin - Sick"
+2018/04/08,17:00:00,SWAP,14,Pro,"b-FF SWAP-OUT"
+2018/04/09,17:00:00,SWAP,14,Pro,"b-FF SWAP-OUT"
+2018/04/11,07:00:00,C-DD,10,Prob-FF,"Dispatch Day Shift"
+2018/04/13,17:00:00,C-ND,14,Prob-FF,"Dispatch Night Shift"
+2018/04/17,07:00:00,C-DD,10,Prob-FF,"Dispatch Day Shift"
+2018/04/19,17:00:00,C-ND,14,Prob-FF,"Dispatch Night Shift"
+2018/04/21,07:00:00,SWAPW,10,Prob-FF,"FF O'Donnell, Peter - SWAP-OUT"
+2018/04/21,17:00:00,OT-VC,14,Prob-FF,"FF Lavallee, David - Vacation"
+2018/04/24,07:00:00,C-DD,10,Prob-FF,"Dispatch Day Shift"
+2018/04/25,17:00:00,PRS,14,Prob-FF,"Personal Day"
+2018/04/26,17:00:00,OT-VC,14,Prob-FF,"FF Forte, Stephen - Vacation"
+2018/04/28,07:00:00,C-DD,10,Prob-FF,"Dispatch Day Shift"
+2018/04/28,17:00:00,C-ND,14,Prob-FF,"Dispatch Night Shift"
+2018/04/29,07:00:00,OT-SL,10,Prob-FF,"FF DeLuca, Anthony - Sick"
+2018/04/29,17:00:00,SWAPW,14,Prob-FF,"FF Lavallee, David - SWAP-OUT"
+2018/05/04,07:00:00,C-DD,10,Prob-FF,"Dispatch Day Shift"
+2018/05/04,17:00:00,C-ND,14,Prob-FF,"Dispatch Night Shift"
+2018/05/05,07:00:00,OT-PRS,10,Prob-FF,"FF Gorman, David - Personal Day"
+2018/05/06,07:00:00,OT-VC,10,Prob-FF,"FF DeLuca, Anthony - Sick"
+2018/05/08,17:00:00,OT-VC,14,Prob-FF,"FF DeLuca, Anthony - Vacation"
+2018/05/11,07:00:00,OT-IOD,10,Prob-FF,"FF McKeon, Steven - Injured On Duty"
+2018/05/12,07:00:00,SWAPW,3.5,Prob-FF,"FF Gorman, David - SWAP-OUT"
+2018/05/12,17:00:00,C-ND,14,Prob-FF,"Dispatch Night Shift"
+2018/05/13,17:00:00,C-ND,14,Prob-FF,"Dispatch Night Shift"
+2018/05/16,17:00:00,C-ND,14,FF,"Dispatch Night Shift"
+2018/05/20,07:00:00,SWAPW,10,FF,"FF Lavallee, David - SWAP-OUT"
+2018/05/20,17:00:00,C-ND,14,FF,"Dispatch Night Shift"
+2018/05/21,07:00:00,OT-ADM,10,FF,"Lt Matola, Jr., Edward (D) - Administrative"
+2018/05/22,17:00:00,C-ND,14,FF,"Dispatch Night Shift"

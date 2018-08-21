@@ -1,0 +1,102 @@
+FFName,Lt,"Bailey,",Thomas,,
+ShiftDate,ShiftChange,PayRollAccoun,Hours,Rank,Reason
+2017/01/21,17:00:00,SL,14,Lt,Sick
+2017/01/29,17:00:00,PRS,14,Lt,"Personal Day"
+2017/02/04,07:00:00,VC,10,Lt,Vacation
+2017/02/05,07:00:00,VC,10,Lt,Vacation
+2017/02/12,07:00:00,SWAP,10,Lt,"SWAP-O UT"
+2017/03/01,17:00:00,OT,0.5,Lt,"holdover for I#588"
+2017/03/03,07:00:00,OT,2.5,Lt,I#611
+2017/03/08,17:00:00,SWAPW,3,Lt,"Lt Matola, Jr., Edward (D) - SWAP-OUT"
+2017/03/09,17:00:00,OT,0.5,Lt,I#659
+2017/03/16,07:00:00,SWAP,4,Lt,SWAP-OUT
+2017/03/19,07:00:00,OT,2,Lt,"I# 17-739"
+2017/03/27,07:00:00,SWAPW,10,Lt,"Lt Grady, Ryan - SWAP-OUT"
+2017/04/04,07:00:00,C-DD,10,Lt,"dispatch day"
+2017/04/10,17:00:00,OT,1,Lt,"Incident 975"
+2017/04/19,17:00:00,SL,14,Lt,Sick
+2017/04/24,17:00:00,CS-SO,3,Lt,safety
+2017/05/05,17:00:00,SL,14,Lt,Sick
+2017/05/07,07:00:00,C-DD,1,Lt,dispatch
+2017/05/09,07:00:00,CS-SO,3,Lt,safety
+2017/05/14,07:00:00,OT-SL,10,Lt,"Lt Grady, Ryan - Sick"
+2017/05/16,17:00:00,OT-ADM,14,Lt,"Lt Grady, Ryan - Military"
+2017/05/19,17:00:00,OT,1,Lt,"incident 1395"
+2017/05/23,17:00:00,OT-ADM,14,Lt,"Lt Grady, Ryan - Admin~military"
+2017/05/24,07:00:00,CS-SO,3,Lt,safety
+2017/05/30,07:00:00,OT-COMP,10,Lt,"Lt Grady, Ryan - Comp USED"
+2017/06/05,17:00:00,OT,1,Lt,"holdover l#157"
+2017/06/05,17:00:00,DP,4,Lt,"detail at swift gym"
+2017/06/14,17:00:00,SL,14,Lt,Sick
+2017/06/15,17:00:00,SL,14,Lt,Sick
+2017/06/20,17:00:00,SWAPW,14,Lt,"Lt Babcock, Stephen (D) - SWAP-OUT"
+2017/06/21,17:00:00,C-ND,1,Lt,dispatch
+2017/07/01,17:00:00,SWAP,14,Lt,SWAP-OUT
+2017/07/06,07:00:00,VC,10,Lt,Vacation
+2017/07/07,07:00:00,VC,10,Lt,Vacation
+2017/07/08,17:00:00,VC,14,Lt,Vacation
+2017/07/09,17:00:00,VC,14,Lt,Vacation
+2017/07/23,17:00:00,OT,0.5,Lt,"Run #2198"
+2017/08/07,07:00:00,VC,10,Lt,Vacation
+2017/08/10,07:00:00,OT,0.5,Lt,2385
+2017/08/15,07:00:00,VC,10,Lt,Vacation
+2017/08/16,07:00:00,VC,10,Lt,Vacation
+2017/08/17,17:00:00,VC,14,Lt,Vacation
+2017/08/18,17:00:00,VC,14,Lt,Vacation
+2017/09/03,17:00:00,VC,14,Lt,Vacation
+2017/09/08,17:00:00,OT,1,Lt,"#2754"
+2017/09/25,17:00:00,OT,1.5,Lt,"I #2953"
+2017/10/10,17:00:00,OT,1,Lt,"Late run I#17-3133"
+2017/10/28,17:00:00,VC,14,Lt,Vacation
+2017/10/30,07:00:00,OT,1,Lt,"OT from run #3391"
+2017/11/05,17:00:00,SL,14,Lt,Sick
+2017/11/13,07:00:00,CS-SO,2,Lt,Safety
+2017/11/14,07:00:00,OT-VC,10,Lt,"Lt Perry, William - Vacation"
+2017/11/15,07:00:00,OT,8,Lt,"AFG TRAINING"
+2017/11/16,07:00:00,CS-SO,4,Lt,"SAFETY OFFICER WORK"
+2017/11/19,07:00:00,VC,10,Lt,Vacation
+2017/11/20,07:00:00,VC,10,Lt,Vacation
+2017/11/24,07:00:00,CS-SO,4,Lt,Safety
+2017/11/30,07:00:00,CS-SO,1,Lt,Safety
+2017/12/06,17:00:00,OT,1,Lt,"Late Run I#17-3820"
+2017/12/13,17:00:00,C-ND,14,Lt,dispatch
+2017/12/16,17:00:00,VC,14,Lt,Vacation
+2017/12/22,07:00:00,VC,10,Lt,Vacation
+2017/12/24,07:00:00,OT-VC,10,Lt,"Lt Gardner, Robert - Vacation"
+2017/12/25,07:00:00,OT-VC,4,Lt,"Lt. Jones, Michael - Vacation"
+2018/01/12,07:00:00,SWAPW,10,Lt,"Lt Babcock, Stephen (D) - SWAP-OUT"
+2018/01/17,07:00:00,OT-IOD,10,Lt,"Lt Grady, Ryan (D) - Injured On Duty"
+2018/01/25,17:00:00,VC,14,Lt,Vacation
+2018/01/26,07:00:00,OT-IOD,10,Lt,"Lt Purcell, William (D) - Injured On Duty"
+2018/01/30,17:00:00,OT-SL,14,Lt,"Lt Matola, Jr., Edward (D) - Sick"
+2018/01/31,17:00:00,OT-SL,14,Lt,"Lt Matola, Jr., Edward (D) - Sick"
+2018/02/05,07:00:00,CS-SO,7,Lt,safety
+2018/02/10,17:00:00,VC,14,Lt,Vacation
+2018/02/17,17:00:00,PRS,14,Lt,"Personal Day"
+2018/02/18,17:00:00,PRS,14,Lt,"Personal Day"
+2018/02/23,07:00:00,VC,10,Lt,Vacation
+2018/02/24,07:00:00,VC,10,Lt,Vacation
+2018/02/25,17:00:00,VC,14,Lt,Vacation
+2018/02/26,17:00:00,VC,14,Lt,Vacation
+2018/03/26,07:00:00,CS-SO,7.5,Lt,"SAFETY-GEAR INSPECTIONS"
+2018/03/30,07:00:00,CS-SO,4,Lt,"Colatteral Duty"
+2018/04/02,07:00:00,OT-SL,10,Lt,"Lt Matola, Jr., Edward (D) - Sick"
+2018/04/03,07:00:00,OT-IOD,9,Lt,"Lt. Hall - IOD"
+2018/04/06,17:00:00,SL,14,Lt,Sick
+2018/04/10,07:00:00,OT-SL,10,Lt,"Lt Matola, Jr., Edward (D) - Sick"
+2018/04/10,17:00:00,OT,0.5,Lt,"LATE CALL #1190"
+2018/04/13,17:00:00,OT,0.5,Lt,"m 1233"
+2018/04/14,07:00:00,C-DD,10,Lt,Dispatch
+2018/04/15,07:00:00,OT-VC,10,Lt,"Lt Perry, William - Vacation"
+2018/04/17,07:00:00,OT-IOD,10,Lt,"Capt Mears, Thomas (D) - Injured On Duty"
+2018/04/19,07:00:00,OT-SL,10,Lt,"Lt Matola, Jr., Edward (D) - Sick"
+2018/04/23,07:00:00,OT-VC,10,Lt,"Lt Grady, Ryan (D) - Vacation"
+2018/04/25,07:00:00,OT-IOD,10,Lt,"Capt Mears, Thomas (D) - Injured On Duty"
+2018/04/26,07:00:00,OT-VC,10,Lt,"Lt Warner Ill, Robert - Vacation"
+2018/05/02,07:00:00,OT-IOD,10,Lt,"Lt Purcell, William (D) - Injured On Duty"
+2018/05/06,07:00:00,VC,10,Lt,Vacation
+2018/05/07,17:00:00,SWAPW,1.5,Lt,"Lt Babcock, Stephen (D) - SWAP-OUT"
+2018/05/08,07:00:00,OT-ADM,10,Lt,"Lt Grady, Ryan (D) - Administrative"
+2018/05/11,07:00:00,OT-VC,10,Lt,"Lt Greene, Merton - Vacation"
+2018/05/11,17:00:00,OT-ADM,14,Lt,"Lt Grady, Ryan (D) - Administrative - Military Leave"
+2018/05/13,17:00:00,OT-EOD,14,Lt,"Past End of Data"
