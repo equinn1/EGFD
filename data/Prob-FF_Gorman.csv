@@ -1,0 +1,200 @@
+FFName,Prob-FF,"Gorman,",David,,
+ShiftDate,ShiftChange,’ayRolIAccoun,Hours,Rank,Reason
+2017/01/05,07:00:00,OT-VC,10,Prob-FF,"FF Squillante, Anthony - Vacation"
+2017/01/10,17:00:00,OT-VC,14,Prob-FF,"FF Forte, Stephen - Vacation"
+2017/01/24,17:00:00,OT-VC,14,Prob-FF,"FF Columbier, Martin - Vacation"
+2017/01/30,07:00:00,OT-VC,10,Prob-FF,"FF Squillante, Anthony - Vacation"
+2017/02/03,07:00:00,OT,1,Prob-FF,I#331
+2017/02/04,17:00:00,SWAP,14,Prob-FF,SWAP-OUT
+2017/02/11,07:00:00,SWAP,10,Pro,"b-FF SWAP-OUT"
+2017/02/15,07:00:00,OT-VC,10,Prob-FF,"FF Howard, Matthew - IOD"
+2017/02/18,17:00:00,OT,0.5,Prob-FF,I#481
+2017/02/20,07:00:00,OT-SL,10,Prob-FF,"FF Archambault, Seth - Sick"
+2017/02/21,07:00:00,DP,4,PrOb-FF,"PRIVATE DETAIL"
+2017/02/23,07:00:00,OT-IOD,10,Prob-FF,"FF Howard, Matthew - Injured On Duty"
+2017/02/27,17:00:00,CMP-E,1,Prob-FF,"lndicent 573"
+2017/02/28,17:00:00,SWAP,14,Prob-FF,SWAP-OUT
+2017/03/01,17:00:00,SL,14,Prob-FF,Sick
+2017/03/06,07:00:00,ADMIN,10,Prob-FF,Administrative
+2017/03/07,07:00:00,ADMIN,10,Prob-FF,Administrative
+2017/03/08,17:00:00,SWAP,14,Prob-FF,SWAP-OUT
+2017/03/09,17:00:00,SL,14,Prob-FF,Sick
+2017/03/10,07:00:00,SWAP,10,Prob-FF,"Swap Out (Admin - Howard out IOD)"
+2017/03/22,07:00:00,SWAPW,3,Prob-FF,"Swap Working"
+2017/03/24,07:00:00,OT-VC,10,Prob-FF,"FF DeLuca, Anthony - Vacation"
+2017/03/25,17:00:00,OT-IOD,5.5,Prob-FF,"Lang IOD"
+2017/03/28,07:00:00,C-BM,4.5,Prob-FF,"Blding maintenance"
+2017/03/30,07:00:00,SWAPW,10,Prob-FF,"Prob-FF Lavallee, David - SWAP-OUT"
+2017/04/04,17:00:00,OT-VC,14,Prob-FF,"FF DeLuca, Anthony - Vacation"
+2017/04/09,17:00:00,OT-IOD,14,Prob-FF,"Prob-FF Stabile, Brian - Injured On Duty"
+2017/04/24,07:00:00,OT-COMP,10,Prob-FF,"FF Lang Jr., Kevin - Comp USED"
+2017/05/02,17:00:00,OT-SL,14,Prob-FF,"FF Andrade, Daniel - Sick"
+2017/05/04,17:00:00,SWAP,14,Prob-FF,SWAP-OUT
+2017/05/07,17:00:00,OT-COMP,14,Prob-FF,"FF Howard, Matthew - Comp USED"
+2017/05/08,17:00:00,SWAPW,14,Prob-FF,"Prob-FF Perry, James - SWAP-OUT"
+2017/05/10,07:00:00,PRS,10,Prob-FF,"Personal Day"
+2017/05/11,17:00:00,SWAP,14,Prob-FF,SWAP-OUT
+2017/05/12,17:00:00,SWAP,14,Prob-FF,SWAP-OUT
+2017/05/16,17:00:00,OT-SL,14,Prob-FF,"Prob-FF Perry, James - Sick"
+2017/05/18,17:00:00,CMP-E,1.5,Prob-FF,"Late Run # 1373"
+2017/05/21,07:00:00,OT-SL,10,Prob-FF,"FF Columbier, Martin - Sick"
+2017/05/26,17:00:00,OT-SL,14,Prob-FF,"FF McKeon, Steven - Sick"
+2017/05/29,07:00:00,CMP-E,6,Prob-FF,Parade
+2017/05/31,17:00:00,OT-BERV,14,Prob-FF,"Prob-FF Stabile, Brian - Bereavement"
+2017/06/02,17:00:00,OT,1,Prob-FF,"HOLDOVER I#1552"
+2017/06/03,07:00:00,PRS,10,Prob-FF,"Personal Day"
+2017/06/03,17:00:00,SWAPW,14,Prob-FF,"FF McKeon, Steven - SWAP-OUT"
+2017/06/06,17:00:00,OT-IOD,14,Prob-FF,"FF DeLuca, Anthony - Injured On Duty"
+2017/06/09,17:00:00,OT-VC,14,Prob-FF,"FF Snowling, Gregg - Vacation"
+2017/06/10,07:00:00,CMP-U,10,Prob-FF,"Comp USED"
+2017/06/16,07:00:00,SWAPW,10,Prob-FF,"FF McKeon, Steven - SWAP-OUT"
+2017/06/18,17:00:00,OT-IOD,14,Prob-FF,"FF Szerlag, Jonathan - Injured On Duty"
+2017/06/26,07:00:00,SWAP,10,Prob-FF,SWAP-OUT
+2017/07/03,17:00:00,OT-IOD,14,Prob-FF,"Prob-FF Perry, James - Injured On Duty"
+2017/07/07,07:00:00,OT-SL,10,Prob-FF,"FF O'Donnell, Peter - Sick"
+2017/07/08,07:00:00,OT-IOD,10,Prob-FF,"Prob-FF Perry, James - Injured On Duty"
+2017/07/10,17:00:00,SWAPW,14,Prob-FF,"FF Columbier, Martin - SWAP-OUT"
+2017/07/11,17:00:00,OT-SL,14,Prob-FF,"FF Snowling, Gregg - Sick"
+2017/07/13,17:00:00,OT-VC,14,Prob-FF,"FF King, Kevin - Vacation"
+2017/07/18,17:00:00,SWAPW,14,Prob-FF,"FF Columbier, Martin - SWAP-OUT"
+2017/07/19,17:00:00,OT-IOD,14,Prob-FF,"Prob-FF Perry, James - Injured On Duty"
+2017/07/20,17:00:00,CMP-E,1.5,Prob-FF,"Late run on R2"
+2017/07/24,07:00:00,OT-VC,10,Prob-FF,"FF Columbier, Martin - Vacation"
+2017/07/27,17:00:00,OT-IOD,7,Prob-FF,"Prob-FF Perry, James - Injured On Duty"
+2017/07/27,17:00:00,CMP-E,7,Prob-FF,"Prob-FF Perry, James - Injured On Duty"
+2017/07/28,17:00:00,OT-VC,14,Prob-FF,"FF McKeon, Steven - Vacation"
+2017/07/29,07:00:00,SWAP,10,Prob-FF,SWAP-OUT
+2017/07/30,17:00:00,CMP-U,14,Prob-FF,"Comp USED"
+2017/08/02,07:00:00,OT-VC,10,Prob-FF,"FF Howard, Matthew - Vacation"
+2017/08/02,17:00:00,OT-VC,14,Prob-FF,"FF O'Donnell, Peter - Vacation"
+2017/08/03,07:00:00,SWAPW,10,Prob-FF,"Prob-FF Lavallee, David - SWAP-OUT '"
+2017/08/06,17:00:00,OT-VC,14,Prob-FF,"FF King, Kevin - Vacation"
+2017/08/09,07:00:00,OT,1.5,Prob-FF,"Late run/awaiting relief"
+2017/08/10,17:00:00,OT-VC,14,Prob-FF,"FF O'Donnell, Peter - Vacation"
+2017/08/13,17:00:00,CMP-E,3.5,Prob-FF,#2435
+2017/08/18,17:00:00,OT-IOD,14,Prob-FF,"FF DeLuca, Anthony - Injured On Duty"
+2017/08/19,17:00:00,OT-VC,14,Prob-FF,"FF Howard, Matthew (D) - Vacation"
+2017/08/21,07:00:00,SWAP,10,Prob-FF,SWAP-OUT
+2017/08/22,07:00:00,SWAP,10,FF,SWAP-OUT
+2017/08/25,07:00:00,OT-VNCY,10,FF,Vacancy
+2017/08/25,17:00:00,OT-IOD,14,FF,"FF DeLuca, Anthony - Injured On Duty"
+2017/08/26,07:00:00,SWAPW,10,FF,"Prob-FF Crute, Sean - SWAP-OUT"
+2017/08/28,17:00:00,OT-VNCY,14,FF,"R2 Vacancy"
+2017/09/02,07:00:00,OT-VC,10,FF,"FF Snowling, Gregg - Vacation"
+2017/09/04,17:00:00,OT-VNCY,7,FF,Vacancy
+2017/09/04,17:00:00,CMP-E,10.5,FF,"comp earn"
+2017/09/07,07:00:00,CMP-U,10,FF,"Comp USED"
+2017/09/07,17:00:00,OT-IOD,14,FF,"FF Szerlag, Jonathan - Injured On Duty"
+2017/09/10,07:00:00,OT-PRS,10,FF,"FF Columbier, Martin - personal day"
+2017/09/14,07:00:00,VC,10,FF,Vacation
+2017/09/15,07:00:00,VC,10,FF,Vacation
+2017/09/20,17:00:00,OT-VNCY,14,FF,Vacancy
+2017/09/24,07:00:00,OT-IOD,10,FF,"FF DeLuca, Anthony - Injured On Duty"
+2017/09/28,17:00:00,OT-IOD,14,FF,"FF Snowling. Gregg - Injured On Duty"
+2017/09/30,07:00:00,VC,10,FF,Vacation
+2017/10/01,07:00:00,PRS,10,FF,"Personal Day"
+2017/10/03,07:00:00,DP,5,FF,"ORDERED to a Fire Watch 5700 post rd"
+2017/10/05,17:00:00,OT-PRS,14,FF,"FF DeLuca, Anthony - Personal Day"
+2017/10/06,17:00:00,OT-VNCY,14,FF,vacancy
+2017/10/16,07:00:00,SWAP,10,FF,SWAP-OUT
+2017/10/20,07:00:00,SWAPW,10,FF,"Prob-FF Crute, Sean - SWAP-OUT"
+2017/10/22,17:00:00,OT-IOD,14,FF,"FF Snowling, Gregg - Injured On Duty"
+2017/10/27,07:00:00,CMP-E,0.5,FF,"Late Run |#3336 ’"
+2017/10/28,07:00:00,OT-IOD,10,FF,"FF Snowling, Gregg - Injured On Duty"
+2017/10/28,17:00:00,OT-BERV,14,FF,"FF Archambault, Seth - Bereavement"
+2017/11/05,07:00:00,OT-IOD,10,FF,"FF Snowling, Gregg - Injured On Duty"
+2017/11/05,17:00:00,OT-IOD,14,FF,"FF DeLuca, Anthony - Injured On Duty"
+2017/11/08,07:00:00,OT-VC,5,FF,"FF Andrade, Daniel - Vacation"
+2017/11/08,07:00:00,CMP-E,7.5,FF,"COMP EARN AT 1.5/HR"
+2017/11/08,17:00:00,OT-IOD,14,FF,"FF Perry, James - Injured On Duty"
+2017/11/11,17:00:00,CMP-U,14,FF,"Comp USED"
+2017/11/13,07:00:00,OT-IOD,10,FF,"ORDERED IN FF Perry, James - Injured On Duty"
+2017/11/15,07:00:00,OT,8,FF,"AFG TRAINING"
+2017/11/15,17:00:00,OT-IOD,14,FF,"FF Perry, James - Injured On Duty"
+2017/11/17,07:00:00,SL,10,FF,Sick
+2017/11/18,17:00:00,OT-VC,14,FF,"FF King, Kevin - Vacation"
+2017/11/21,07:00:00,OT-IOD,10,FF,"FF Snowling, Gregg - Injured On Duty"
+2017/11/24,17:00:00,OT-IOD,14,FF,"FF Perry, James - Injured On Duty"
+2017/11/25,17:00:00,OT-VC,14,FF,"FF McKeon, Steven - Vacation"
+2017/11/30,07:00:00,OT-IOD,10,FF,"FF Snowling, Gregg - Injured On Duty"
+2017/11/30,17:00:00,OT-SL,14,FF,"FF O'Donnell, Peter - Sick"
+2017/12/01,17:00:00,OT-SL,14,FF,"FF Howard, Matthew (D) - Sick"
+2017/12/06,07:00:00,OT-VC,10,FF,"FF Campbell, Andrew - Vacation"
+2017/12/07,07:00:00,OT-IOD,10,FF,"FF Snowling, Gregg - Injured On Duty"
+2017/12/08,07:00:00,OT-IOD,10,FF,"FF Snowling, Gregg - Injured On Duty"
+2017/12/06,07:00:00,OT-VC,10,FF,"FF Campbell, Andrew - Vacation"
+2017/12/07,07:00:00,OT-IOD,10,FF,"FF Snowling, Gregg - Injured On Duty"
+2017/12/08,07:00:00,OT-IOD,10,FF,"FF Snowling, Gregg - Injured On Duty"
+2017/12/13,07:00:00,SWAPW,10,FF,"Prob-FF Preston, Ronald - SWAP-OUT"
+2017/12/13,17:00:00,SWAP,14,FF,SWAP-OUT
+2017/12/14,07:00:00,OT-IOD,10,FF,"FF DeLuca, Anthony - Injured On Duty"
+2017/12/16,17:00:00,OT-PRS,14,FF,"FF O'Donnell, Peter - Personal Day"
+2017/12/17,17:00:00,OT-IOD,14,FF,"FF Snowling, Gregg - Injured On Duty"
+2017/12/23,07:00:00,OT-VC,10,FF,"FF Perry, James - Vacation"
+2017/12/23,17:00:00,OT,0.5,FF,"Late run |#17-4033"
+2017/12/25,17:00:00,OT-IOD,14,FF,"FF Snowling, Gregg - Injured On Duty"
+2017/12/27,07:00:00,BER,10,FF,Bereavement
+2017/12/28,07:00:00,SWAP,10,FF,SWAP-OUT
+2017/12/31,17:00:00,OT-IOD,14,FF,"FF DeLuca, Anthony - Injured On Duty"
+2018/01/01,07:00:00,OT-IOD,10,FF,"FF Snowling, Gregg - Injured On Duty"
+2018/01/02,17:00:00,SWAPW,14,FF,"FF Perry, James - SWAP-OUT"
+2018/01/04,07:00:00,SWAP,10,FF,SWAP-OUT
+2018/01/05,07:00:00,VC,10,FF,Vacation
+2018/01/08,07:00:00,OT-IOD,10,FF,"FF Snowling, Gregg - Injured On Duty"
+2018/01/09,07:00:00,OT-IOD,10,FF,"FF Snowling, Gregg - Injured On Duty"
+2018/01/10,17:00:00,OT-PRS,14,FF,"FF Howard, Matthew (D) - Personal Day"
+2018/01/16,07:00:00,OT-IOD,10,FF,"FF Snowling, Gregg - Injured On Duty"
+2018/01/19,17:00:00,SWAPW,14,FF,"FF Perry, James - SWAP-OUT"
+2018/01/20,17:00:00,SWAPW,14,FF,"FF McKeon, Steven - SWAP-OUT"
+2018/01/21,07:00:00,VC,10,FF,Vacation
+2018/01/23,07:00:00,OT-IOD,10,FF,"FF DeLuca, Anthony - Injured On Duty"
+2018/01/23,17:00:00,SWAP,14,',"FF SWAP-OUT"
+2018/01/26,17:00:00,OT-IOD,14,FF,"FF Snowling, Gregg - Injured On Duty"
+2018/01/30,17:00:00,VC,14,FF,Vacation
+2018/01/31,07:00:00,OT-IOD,10,FF,"FF DeLuca, Anthony - Injured On Duty"
+2018/02/02,07:00:00,OT,4,FF,"Stress Debriefing Class for Run # 352"
+2018/02/07,17:00:00,SWAP,14,FF,SWAP-OUT
+2018/02/09,07:00:00,SWAPW,10,FF,"Prob-FF Crute, Sean - SWAP-OUT"
+2018/02/11,17:00:00,OT-IOD,14,FF,"FF Snowling, Gregg - Injured On Duty"
+2018/02/25,07:00:00,OT-IOD,10,FF,"FF Snowling, Gregg - Injured On Duty"
+2018/02/27,17:00:00,OT-IOD,14,FF,"FF Snowling, Gregg - Injured On Duty"
+2018/03/01,07:00:00,SWAP,4,FF,SWAP-OUT
+2018/03/04,17:00:00,SL,14,FF,Sick
+2018/03/09,07:00:00,SWAP,10,FF,SWAP-OUT
+2018/03/10,07:00:00,SWAP,10,FF,SWAP-OUT
+2018/03/12,17:00:00,SWAP,14,FF,SWAP-OUT
+2018/03/14,07:00:00,SWAPW,8,FF,"Prob-FF Crute, Sean - SWAP-OUT"
+2018/03/14,17:00:00,OT,0.5,FF,"I #915"
+2018/03/15,17:00:00,SWAPW,14,FF,"FF Columbier, Martin - SWAP-OUT"
+2018/03/17,17:00:00,OT-VC,14,FF,"FF King, Kevin - Vacation"
+2018/03/23,17:00:00,OT-IOD,14,FF,"FF Snowling, Gregg - Injured On Duty"
+2018/03/24,07:00:00,OT-SL,10,FF,"FF Andrade, Daniel - Slck"
+2018/03/28,07:00:00,OT-SL,10,FF,"FF DeLuca, Anthony - Sick"
+2018/03/30,07:00:00,C-DD,10,FF,Dispatch
+2018/03/30,17:00:00,OT-VC,14,FF,"FF Archambault, Seth - Vacation"
+2018/03/31,17:00:00,OT-IOD,14,FF,"FF Snowling, Gregg - Injured On Duty"
+2018/04/02,17:00:00,OT-COMP,14,FF,"FF McKeon, Steven - Comp USED"
+2018/04/03,17:00:00,OT,0.5,FF,"I# 1121"
+2018/04/05,07:00:00,OT,0.5,FF,I#1141
+2018/04/08,07:00:00,OT-VC,10,FF,"FF King, Kevin Lt Greene, Merton - Vacation"
+2018/04/10,17:00:00,OT,0.5,FF,"LATE CALL #1190"
+2018/04/15,17:00:00,SWAPW,14,FF,"FF Perry, James - SWAP-OUT"
+2018/04/18,17:00:00,OT-SL,14,FF,"Lt Jones, Michael - Sick"
+2018/04/21,07:00:00,DP,5.5,FF,Detail
+2018/04/22,07:00:00,OT-IOD,10,FF,"FF Snowling, Gregg - Injured On Duty"
+2018/04/22,17:00:00,CMP-E,1,FF,"LATE CALL IN WW #1335"
+2018/04/24,17:00:00,OT-IOD,7,FF,"FF Snowling, Gregg - Injured On Duty"
+2018/04/24,17:00:00,CMP-E,7,FF,"FF Snowling, Gregg - Injured On Duty"
+2018/04/26,07:00:00,SWAP,10,FF,SWAP-OUT
+2018/05/01,17:00:00,OT-VC,14,FF,"FF Archambault, Seth - Vacation"
+2018/05/05,07:00:00,PRS,10,FF,"Personal Day"
+2018/05/08,07:00:00,OT,0.5,FF,1243
+2018/05/09,07:00:00,OT-IOD,10,FF,"FF Snowling, Gregg - Injured On Duty"
+2018/05/10,17:00:00,OT-IOD,14,FF,"FF Snowling, Gregg - Injured On Duty"
+2018/05/12,07:00:00,SWAP,3,FF,SWAP-OUT
+2018/05/12,17:00:00,OT-VC,14,FF,"FF Forte, Stephen - Vacation"
+2018/05/14,17:00:00,SWAP,7,FF,SWAP-OUT
+2018/05/17,07:00:00,OT-IOD,10,FF,"FF Snowling, Gregg - Injured On Duty"
+2018/05/18,17:00:00,OT-IOD,14,FF,"FF Snowling, Gregg - Injured On Duty"
+2018/05/19,17:00:00,OT-SL,7,FF,"FF Howard, Matthew (D) - Slck"
+2018/05/19,17:00:00,CMP-E,7,FF,"Matt Howard -SICK (split shlft 2-Jan ot1/2 comp earned)"
