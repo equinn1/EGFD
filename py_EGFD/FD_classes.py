@@ -5,37 +5,20 @@ class cycle:
 	def get_cycle_start(self):
 		return(self.cycle_start)
 
-	def get_scheduled(self):            
-		'''returns the four shifts scheduled in this cycle'''
-		return(self.scheduled_shifts)
-
 	def get_cycle(self):            
-		''' returns the 16 shifts scheduled in this 8-day cycle '''
-		return(self.cycle_shifts)
-
-	def add_shift(self,ts,sched,shft):
-		self.cycle[ts] = {}
-		self.cycle[ts]['shift'] = shft
-		self.cycle['scheduled'] = sched
-		return
+		''' returns the dictionary of the 16 shifts in this 8-day cycle '''
+		return(self.cycle)
 
 	def __init__(self,starttime,shifts):    
 		''' Constructor for cycle class '''
 		self.cycle = {}
 		self.cycle_start = starttime
 		ts = self.cycle_start
-		self.add_shift(ts,True,shifts[ts])
-		ts += datetime.timedelta(days=1)
-		self.add_shift(ts,True,shifts[ts])
-		ts += datetime.timedelta(days=1)
-		ts += datetime.timedelta(hours=10)   # increment cycle start by 10 hours + 1 day
-		self.add_shift(ts,True,shifts[ts])
-		ts += datetime.timedelta(days=1)
-		self.add_shift(ts,True,shifts[ts])
-		ts = self.cycle_start
-		for hrs in [10,24,14,24,10,14,10,14,10,14,10,14]:
-			ts += datetime.timedelta(hours=hrs)
-			self.add_shift(ts,False,shifts[ts])
+		for k in range(1,17):
+			if (k in [1,3,6,8]):  self.cycle[ts] = True
+			else:                 self.cycle[ts] = False
+			ts += datetime.timedelta(hours=10)
+			if (k%2 == 0):   ts += datetime.timedelta(hours=4)
 		return
 
 class shift:
